@@ -27,7 +27,6 @@ models/*
 # System and logs
 logs/
 *.log
-*.txt
 .vscode/
 .idea/
 .DS_Store
